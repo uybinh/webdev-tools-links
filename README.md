@@ -37,3 +37,8 @@ A collection of tools, websites that are useful for webdev.
 ## Tools
 
 - http://keycode.info
+
+
+## Modules, libraries
+
+- https://flickity.metafizzy.co - Touch, responsive, flickable carousels
